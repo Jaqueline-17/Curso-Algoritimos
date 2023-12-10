@@ -1,9 +1,9 @@
 
 import java.util.Scanner;
 // Enunciado: 
-// Fazer o cauculo de Três lados de um triângulo L1, L2, L3 e definir se é 
-// um triângulo equilátero (EQ) ou um triângulo escaleno (ES) e se 
-// é possível formar um triângulo(TRI).
+//Fazer o cauculo de Três lados de um triângulo L1, L2, L3 e definir se é
+//um triângulo equilátero (EQ) ou um triângulo escaleno (ES) , e se é capaz
+//de formar um triângulo(TRI).
 public class Triangulo {
 	
 	public static void main(String[] args) {

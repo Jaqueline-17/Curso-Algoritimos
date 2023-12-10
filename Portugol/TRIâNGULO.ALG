@@ -1,6 +1,9 @@
 Algoritmo "Triângulo"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Fazer o cauculo de Três lados de um triângulo L1, L2, L3 e definir se é
-// um triângulo equilátero (EQ) ou um triângulo escaleno (ES).
+// um triângulo equilátero (EQ) ou um triângulo escaleno (ES), e se é capaz
+// de formar um triângulo(TRI).
 Var
 L1, L2, L3: real
 EQ, ES, TRI: Logico
