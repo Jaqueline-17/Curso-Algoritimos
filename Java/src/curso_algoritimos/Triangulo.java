@@ -1,3 +1,4 @@
+package curso_algoritimos;
 
 import java.util.Scanner;
 // Enunciado: 

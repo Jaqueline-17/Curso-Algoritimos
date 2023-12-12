@@ -12,7 +12,7 @@ Inicio
      
      dolar <- reais / 4.90
      
-     Escreva("O valor em dólar é de: U$ ", dolar)
+     Escreva("O valor em dólar é de: U$ ", dolar:2:2)
 
 
 Fimalgoritmo

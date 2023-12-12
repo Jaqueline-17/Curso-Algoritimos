@@ -1,4 +1,6 @@
+package curso_algoritimos;
 import java.util.Scanner;
+//Enunciado:
 //Fazer um programa que receba o ano atual e o ano de nascimento do usuário e
 //devolver o resultado em console.
 public class Calculo_Idade {
