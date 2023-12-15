@@ -16,7 +16,7 @@ Mesmo já tendo conhecimentos avançados em Java e em algumas outras tecnologias
 
 ## 💻 Tecnologias Utilizadas
 
-- Pseudocódigo em Portugol
+- Pseudocódigo em Portugol (VisualG)
 - Java
 
 
